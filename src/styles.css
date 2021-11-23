@@ -1,0 +1,10 @@
+html,
+body {
+  margin: 0;
+  background-color: #ddd;
+  font-family: sans-serif;
+}
+
+img {
+  width: 150px;
+}

@@ -1,0 +1,9 @@
+h1 {
+  color: indigo;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.title {
+  border-bottom: 1px solid red;
+}
